@@ -1,4 +1,5 @@
 git remote add origin : to link the repo and local git
 git remote -v : to list already linked repos
+git remote upstream url (from where we have forked the file link)
 git push origin master: to add local files to github repo
 
