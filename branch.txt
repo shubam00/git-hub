@@ -1,0 +1,7 @@
+git branch branch_name: create new branch
+git checkout branch_name: switch branch
+
+head: is a pointer which points towards currently used branch. Any commits made will be managed by this pointer and will set to pointed branch.
+
+
+git merge branch_name: to merge the new branch into the main branch
